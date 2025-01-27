@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Start ()
     {
-        currentSpeed = 0f;
+        currentSpeed = 10f;
     }
     void Update()
     {
