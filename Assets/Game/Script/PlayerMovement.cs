@@ -7,34 +7,32 @@ public class PlayerMovement : MonoBehaviour
     [Header("Movement Options")]
     public float speed;
     public float jumpForce;
-
     public float acceleration; 
 
     private float currentSpeed;
     private float horizontal;
     private bool isFacingRight = true;
+    private bool isGrounded;
 
     [Header("Components")]
     public Rigidbody2D rb;
     public Transform groundCheck;
     public LayerMask groundLayer;
 
-
-    void Start ()
+    void Start()
     {
         currentSpeed = 10f;
-    }
-    void Update()
-    {
-        horizontal = Input.GetAxisRaw("Horizontal");
-
-        Flip();
-        Jump();
     }
 
     void FixedUpdate()
     {   
-        if(horizontal != 0f)
+        horizontal = Input.GetAxisRaw("Horizontal");
+
+        isGrounded = CheckGrounded();
+        Flip();
+        Jump();
+
+        if (horizontal != 0f)
         {
             currentSpeed = Mathf.MoveTowards(currentSpeed, speed, acceleration * Time.fixedDeltaTime);
         }
@@ -42,22 +40,28 @@ public class PlayerMovement : MonoBehaviour
         {
             currentSpeed = Mathf.MoveTowards(currentSpeed, 0f, acceleration * Time.fixedDeltaTime);
         }
+        
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+Debug.Log("GroundCheck Position: " + groundCheck.position);
+Debug.Log("IsGrounded: " + isGrounded);
+
+
     }
 
-    bool isGrounded()
+    bool CheckGrounded()
     {
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 
     void Jump()
     {
-        if(Input.GetButtonDown("Jump") && isGrounded())
+        if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rb.linearVelocity= new Vector2(rb.linearVelocity.x , jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
-        if(Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
+        if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
         }
@@ -65,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Flip()
     {
-        if(isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
+        if ((isFacingRight && horizontal < 0f) || (!isFacingRight && horizontal > 0f))
         {
             isFacingRight = !isFacingRight;
             Vector3 localScale = transform.localScale;
