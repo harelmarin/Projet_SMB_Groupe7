@@ -319,9 +319,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10c614bf523e5428c87e278413760b1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vitesseDeplacement: 5
+  vitesseDeplacement: 7
   sprintSpeed: 10
-  forceJump: 8
+  forceJump: 12
   groundCheck: {fileID: 7095317716617893580}
   groundCheckSize: {x: 0.2, y: 0.05}
   groundLayer:
@@ -333,6 +333,7 @@ MonoBehaviour:
   wallCheckSize: {x: 0.1, y: 0.3}
   wallJumpForceX: 7
   wallJumpForceY: 10
+  respawnPoint: {x: 0, y: 0, z: 0}
 --- !u!1 &8772740999274953475
 GameObject:
   m_ObjectHideFlags: 0
