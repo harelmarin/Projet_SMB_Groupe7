@@ -22,8 +22,12 @@ public class PlayerMovement : MonoBehaviour
     [Header("Wall Jump")]
     [SerializeField] private float wallJumpForceX = 15f;
     [SerializeField] private float wallJumpForceY = 12f;
-    private float wallJumpCooldown = 0.2f; // Temps minimum entre les wall jumps
+    private float wallJumpCooldown = 0.2f; 
     private float lastWallJumpTime;
+
+    [Header("Respawn")]
+    [SerializeField] private Vector3 respawnPoint;
+    private bool isDead;
 
     private Rigidbody2D rb;
     private float horizontalMovement;
@@ -36,6 +40,12 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+    }
+
+    private void Start()
+    {
+        // Sauvegarde la position initiale comme point de respawn
+        respawnPoint = transform.position;
     }
 
     public void OnMove(InputAction.CallbackContext context)
@@ -71,6 +81,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (isDead) return; // Ne pas exécuter la logique de mouvement si mort
+
         isGrounded = Physics2D.OverlapBox(groundCheck.position, groundCheckSize, 0f, groundLayer);
 
         bool touchingRightWall = Physics2D.OverlapBox(wallCheckRight.position, wallCheckSize, 0f, groundLayer);
@@ -111,6 +123,23 @@ public class PlayerMovement : MonoBehaviour
             Gizmos.DrawWireCube(wallCheckRight.position, wallCheckSize);
             Gizmos.DrawWireCube(wallCheckLeft.position, wallCheckSize);
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Vérifie si l'objet touché est sur le layer Danger
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Danger"))
+        {
+            Die();
+        }
+    }
+
+    public void Die()
+    {
+        isDead = true;
+        rb.linearVelocity = Vector2.zero;
+        transform.position = respawnPoint;
+        isDead = false;
     }
 }
 
