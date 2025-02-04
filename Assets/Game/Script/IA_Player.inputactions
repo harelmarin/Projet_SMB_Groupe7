@@ -2,7 +2,7 @@
     "name": "IA_Player",
     "maps": [
         {
-            "name": "Movement",
+            "name": "Player",
             "id": "c3be585b-1354-4dbe-9ce1-2b766d37c0f3",
             "actions": [
                 {
