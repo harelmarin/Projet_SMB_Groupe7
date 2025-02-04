@@ -3,23 +3,23 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public Rigidbody2D rb;
-    public float moveSpeed = 5f;
-    public float jumpForce = 5f;
-    public bool isGrounded = false;
+    [SerializeField] private float vitesseDeplacement = 5f;
+    private Rigidbody2D rb;
+    private float mouvementHorizontal;
 
-    void FixedUpdate()
+    private void Awake()
     {
-        rb.linearVelocity = new Vector2(moveSpeed * Time.fixedDeltaTime, rb.linearVelocity.y);
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    void OnJump()
+    public void OnMove(InputAction.CallbackContext context)
     {
-        if (isGrounded)
-        {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            isGrounded = false;
-        }
+        mouvementHorizontal = context.ReadValue<Vector2>().x;
+    }
+
+    private void FixedUpdate()
+    {
+        rb.linearVelocity = new Vector2(mouvementHorizontal * vitesseDeplacement, rb.linearVelocity.y);
     }
 }
 
