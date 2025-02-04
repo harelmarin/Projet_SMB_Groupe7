@@ -1,0 +1,4355 @@
+fileFormatVersion: 2
+guid: 5574a93dbae7db2419d2c712a193b2a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2336651310716530654
+    second: hobstacles_0
+  - first:
+      213: 7872221206424918444
+    second: hobstacles_1
+  - first:
+      213: -4577458795205915199
+    second: hobstacles_2
+  - first:
+      213: 2798591710564526481
+    second: hobstacles_3
+  - first:
+      213: -908631719877263972
+    second: hobstacles_4
+  - first:
+      213: -8931169933618716813
+    second: hobstacles_5
+  - first:
+      213: 3657192999027844530
+    second: hobstacles_6
+  - first:
+      213: 102663965614969954
+    second: hobstacles_7
+  - first:
+      213: 3449054924977568267
+    second: hobstacles_8
+  - first:
+      213: 1626322324489129068
+    second: hobstacles_9
+  - first:
+      213: -6526940366805986627
+    second: hobstacles_10
+  - first:
+      213: 1149775715562412951
+    second: hobstacles_11
+  - first:
+      213: -5326176575375939380
+    second: hobstacles_12
+  - first:
+      213: -1552889792829869621
+    second: hobstacles_13
+  - first:
+      213: -287902270142427647
+    second: hobstacles_14
+  - first:
+      213: -3235875994163821377
+    second: hobstacles_15
+  - first:
+      213: -5429022666497395177
+    second: hobstacles_16
+  - first:
+      213: -2691557104348883710
+    second: hobstacles_17
+  - first:
+      213: -6525217533842739510
+    second: hobstacles_18
+  - first:
+      213: -6490740045850228751
+    second: hobstacles_19
+  - first:
+      213: -9117595198190619579
+    second: hobstacles_20
+  - first:
+      213: 8597614421423820336
+    second: hobstacles_21
+  - first:
+      213: -4189094438831786493
+    second: hobstacles_22
+  - first:
+      213: -6505806367841867171
+    second: hobstacles_23
+  - first:
+      213: 7207779923886395404
+    second: hobstacles_24
+  - first:
+      213: -6916461719902087810
+    second: hobstacles_25
+  - first:
+      213: 8333896690888200753
+    second: hobstacles_26
+  - first:
+      213: 3174327742057237731
+    second: hobstacles_27
+  - first:
+      213: -7153257341722430008
+    second: hobstacles_28
+  - first:
+      213: 7268125260967761216
+    second: hobstacles_29
+  - first:
+      213: -7073289378680211097
+    second: hobstacles_30
+  - first:
+      213: -8539888186718384280
+    second: hobstacles_31
+  - first:
+      213: 6763542744453588563
+    second: hobstacles_32
+  - first:
+      213: 9195197772893395699
+    second: hobstacles_33
+  - first:
+      213: -1972069102689250629
+    second: hobstacles_34
+  - first:
+      213: 6333237731998915265
+    second: hobstacles_35
+  - first:
+      213: -7858313780843844396
+    second: hobstacles_36
+  - first:
+      213: -4598860568394137245
+    second: hobstacles_37
+  - first:
+      213: -6003619045331651700
+    second: hobstacles_38
+  - first:
+      213: 9079031139111157344
+    second: hobstacles_39
+  - first:
+      213: 4918280588182497526
+    second: hobstacles_40
+  - first:
+      213: 6671057848444800974
+    second: hobstacles_41
+  - first:
+      213: -2970451851477981495
+    second: hobstacles_42
+  - first:
+      213: -779598048428758946
+    second: hobstacles_43
+  - first:
+      213: -6167544430505013911
+    second: hobstacles_44
+  - first:
+      213: -8906234289330788671
+    second: hobstacles_45
+  - first:
+      213: 2165406172925892229
+    second: hobstacles_46
+  - first:
+      213: -2231293887961121688
+    second: hobstacles_47
+  - first:
+      213: 5205799951617681057
+    second: hobstacles_48
+  - first:
+      213: -3292917495156949822
+    second: hobstacles_49
+  - first:
+      213: -4326129183622072194
+    second: hobstacles_50
+  - first:
+      213: 6761539568914672634
+    second: hobstacles_51
+  - first:
+      213: 2067000393861646926
+    second: hobstacles_52
+  - first:
+      213: 5984019276572502776
+    second: hobstacles_53
+  - first:
+      213: 8954889012815256987
+    second: hobstacles_54
+  - first:
+      213: 6068010657358103557
+    second: hobstacles_55
+  - first:
+      213: -8279582843212365891
+    second: hobstacles_56
+  - first:
+      213: -8264547789822629827
+    second: hobstacles_57
+  - first:
+      213: -8861430270047175984
+    second: hobstacles_58
+  - first:
+      213: -6042454964677429190
+    second: hobstacles_59
+  - first:
+      213: 6441716318220392610
+    second: hobstacles_60
+  - first:
+      213: -601475636818752601
+    second: hobstacles_61
+  - first:
+      213: 7794694409607007403
+    second: hobstacles_62
+  - first:
+      213: -3396379382166760052
+    second: hobstacles_63
+  - first:
+      213: 5655085650524027819
+    second: hobstacles_64
+  - first:
+      213: 2266676861222965321
+    second: hobstacles_65
+  - first:
+      213: 2967321254671802060
+    second: hobstacles_66
+  - first:
+      213: -7140716850758070508
+    second: hobstacles_67
+  - first:
+      213: 5534687437576914954
+    second: hobstacles_68
+  - first:
+      213: -7578095679428399236
+    second: hobstacles_69
+  - first:
+      213: 4456897619287647980
+    second: hobstacles_70
+  - first:
+      213: -5992359935246751748
+    second: hobstacles_71
+  - first:
+      213: 783203259843198899
+    second: hobstacles_72
+  - first:
+      213: 8732821557064387727
+    second: hobstacles_73
+  - first:
+      213: -6248874178209273145
+    second: hobstacles_74
+  - first:
+      213: -2513486030391342763
+    second: hobstacles_75
+  - first:
+      213: 5160586968250194397
+    second: hobstacles_76
+  - first:
+      213: 4229270175649734996
+    second: hobstacles_77
+  - first:
+      213: -3793074743085085758
+    second: hobstacles_78
+  - first:
+      213: -1731313603982344793
+    second: hobstacles_79
+  - first:
+      213: -1527364604320575474
+    second: hobstacles_80
+  - first:
+      213: 5678728490716852294
+    second: hobstacles_81
+  - first:
+      213: 7605343318824191438
+    second: hobstacles_82
+  - first:
+      213: -686419052486319204
+    second: hobstacles_83
+  - first:
+      213: -2252306536459396043
+    second: hobstacles_84
+  - first:
+      213: -8723904612075352543
+    second: hobstacles_85
+  - first:
+      213: 6208979539389697373
+    second: hobstacles_86
+  - first:
+      213: 2436304021679367940
+    second: hobstacles_87
+  - first:
+      213: 5201027826451945772
+    second: hobstacles_88
+  - first:
+      213: 1945607605281951117
+    second: hobstacles_89
+  - first:
+      213: -7857631767409475285
+    second: hobstacles_90
+  - first:
+      213: -4350716602696828920
+    second: hobstacles_91
+  - first:
+      213: 1175286972775439812
+    second: hobstacles_92
+  - first:
+      213: 9043066149417794119
+    second: hobstacles_93
+  - first:
+      213: -5844746224972879329
+    second: hobstacles_94
+  - first:
+      213: -5449718470401657624
+    second: hobstacles_95
+  - first:
+      213: -8187375469938595655
+    second: hobstacles_96
+  - first:
+      213: -2369035824433888452
+    second: hobstacles_97
+  - first:
+      213: 8801245806741449179
+    second: hobstacles_98
+  - first:
+      213: -7040602727214363874
+    second: hobstacles_99
+  - first:
+      213: -1880250301061995637
+    second: hobstacles_100
+  - first:
+      213: -5456437783726247669
+    second: hobstacles_101
+  - first:
+      213: -5815393031045682508
+    second: hobstacles_102
+  - first:
+      213: -6077715634219795355
+    second: hobstacles_103
+  - first:
+      213: -8433170991714504507
+    second: hobstacles_104
+  - first:
+      213: 6229310217059557059
+    second: hobstacles_105
+  - first:
+      213: -1269847255512015792
+    second: hobstacles_106
+  - first:
+      213: 4611253429329907036
+    second: hobstacles_107
+  - first:
+      213: -1085556702782438852
+    second: hobstacles_108
+  - first:
+      213: -299081756115770032
+    second: hobstacles_109
+  - first:
+      213: -7914709112956392027
+    second: hobstacles_110
+  - first:
+      213: -2974460522443456556
+    second: hobstacles_111
+  - first:
+      213: -4148263756950406574
+    second: hobstacles_112
+  - first:
+      213: -4583361129185397237
+    second: hobstacles_113
+  - first:
+      213: -4509534264707225264
+    second: hobstacles_114
+  - first:
+      213: 7268199482481082894
+    second: hobstacles_115
+  - first:
+      213: -8222095258686235453
+    second: hobstacles_116
+  - first:
+      213: -1193158962513574390
+    second: hobstacles_117
+  - first:
+      213: -2890935002615739215
+    second: hobstacles_118
+  - first:
+      213: 3102205386523868192
+    second: hobstacles_119
+  - first:
+      213: -362994341725219380
+    second: hobstacles_120
+  - first:
+      213: -5361708124704155211
+    second: hobstacles_121
+  - first:
+      213: -6668109471710278492
+    second: hobstacles_122
+  - first:
+      213: 3251399125986688835
+    second: hobstacles_123
+  - first:
+      213: 4034788375988308774
+    second: hobstacles_124
+  - first:
+      213: 3169960189833296273
+    second: hobstacles_125
+  - first:
+      213: -8687660784613357586
+    second: hobstacles_126
+  - first:
+      213: -5721864710296071410
+    second: hobstacles_127
+  - first:
+      213: -4042038495266402130
+    second: hobstacles_128
+  - first:
+      213: -1021326578926626294
+    second: hobstacles_129
+  - first:
+      213: 5370407934405514657
+    second: hobstacles_130
+  - first:
+      213: -3052512673485132835
+    second: hobstacles_131
+  - first:
+      213: -1136892981066981649
+    second: hobstacles_132
+  - first:
+      213: -4138155830624253087
+    second: hobstacles_133
+  - first:
+      213: 7810485750540665885
+    second: hobstacles_134
+  - first:
+      213: 5058329936861493489
+    second: hobstacles_135
+  - first:
+      213: -3069224909243738852
+    second: hobstacles_136
+  - first:
+      213: -599266281164617119
+    second: hobstacles_137
+  - first:
+      213: -1491429336045301566
+    second: hobstacles_138
+  - first:
+      213: 4922893178839352265
+    second: hobstacles_139
+  - first:
+      213: -6144911689316789736
+    second: hobstacles_140
+  - first:
+      213: -4096519313482935875
+    second: hobstacles_141
+  - first:
+      213: -8424860560209896453
+    second: hobstacles_142
+  - first:
+      213: -3777923251112264638
+    second: hobstacles_143
+  - first:
+      213: -644175067781697505
+    second: hobstacles_144
+  - first:
+      213: 5242732743446079815
+    second: hobstacles_145
+  - first:
+      213: 8601713944626702161
+    second: hobstacles_146
+  - first:
+      213: 7058647179409779937
+    second: hobstacles_147
+  - first:
+      213: -3309477667336844343
+    second: hobstacles_148
+  - first:
+      213: -4249229601453793361
+    second: hobstacles_149
+  - first:
+      213: -1776911081255813355
+    second: hobstacles_150
+  - first:
+      213: -6929592550814572108
+    second: hobstacles_151
+  - first:
+      213: 3724855019053904123
+    second: hobstacles_152
+  - first:
+      213: -4811310125943368289
+    second: hobstacles_153
+  - first:
+      213: -5059142500865320823
+    second: hobstacles_154
+  - first:
+      213: 4188597090926313771
+    second: hobstacles_155
+  - first:
+      213: -7810709750644574122
+    second: hobstacles_156
+  - first:
+      213: -592601868867816828
+    second: hobstacles_157
+  - first:
+      213: 859116668826940803
+    second: hobstacles_158
+  - first:
+      213: 8209247680571566032
+    second: hobstacles_159
+  - first:
+      213: 8106661590017099073
+    second: hobstacles_160
+  - first:
+      213: 4608126785423380968
+    second: hobstacles_161
+  - first:
+      213: 833841857893102039
+    second: hobstacles_162
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hobstacles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 242
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd8359867dda949b2dac15226b35f0
+      internalID: 1918559001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 758
+        width: 246
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee1fd29f87ca74a8653030e2342782
+      internalID: 1865469398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 754
+        width: 242
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935c459e1d068742896795d9680d04c
+      internalID: -1247035783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 496
+        width: 261
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b7e288fcd20549b35c47683206304
+      internalID: 112037052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 242
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f543f9289ab5c4e94a27432d2926ad
+      internalID: 388327890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 464
+        width: 120
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc051badc4079834aab0f94b6ce8b775
+      internalID: -236948141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 572
+        width: 103
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b68c3f2fe0f04ebc5ea90f9083272
+      internalID: -387184597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 694
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a061caa2b2f23140bcbe5445b1f3e7c
+      internalID: -511702418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 465
+        width: 39
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa683a6c7778a4e97b150e0b4f25cc
+      internalID: 471793079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 657
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596de7e0a53b23d4f81859e9d71224e8
+      internalID: -1762254403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 626
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749ea7e8571feb4aabf32d6f7a6c81a
+      internalID: 260387159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 586
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e24e84abc8f3b408fa6acac4d5ae23
+      internalID: -155757272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 580
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0704f1bce24817e49b17e8c2fafd6360
+      internalID: -815400804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 580
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc88c9ddcdb61438c00e5cda6270f9
+      internalID: -630071846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 580
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39048b70602f3438ebfc37ee22f11a
+      internalID: 994994534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 580
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503121804b7b7149be1dc1575e7e7f6
+      internalID: -805231274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 580
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd99c188cc35964faad66c73b36c5f1
+      internalID: 2110870958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 580
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dfc8ee2496e7347acab55fcd480e0f
+      internalID: -833124687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 580
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7af9b6862c0a41b57c93d11efaf0c
+      internalID: -1747222188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 579
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c19e5c0ebae944c9dc1a5c365c5318
+      internalID: 279440393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 497
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2565e4f38f48b4b89616b014b52fec
+      internalID: 13885939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 558
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca719d2c88b0e1646b29a02ddc1714c8
+      internalID: -879010265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 562
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5a7944449b8cd42a4c96afc53d447e
+      internalID: -986226868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 558
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed0cdd24410dd84ba2e1330924a273f
+      internalID: -505053667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 509
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b2aa9d7e5213498cd73d88576abe1
+      internalID: -456047141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_25
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 564
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27daed7293b99a94091b91040f322385
+      internalID: -1974864149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_26
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 564
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593484020c059649a104a008421e10b
+      internalID: 722657624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 566
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acda0b5ce03a543479113aa834ed02c6
+      internalID: 1128191244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 548
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4b0629629d2445a94e90f54c70ee6
+      internalID: -1932325266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_29
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 548
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713dff76a254d2d4cb78a127c085319b
+      internalID: 1380968049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_30
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1552226dfa40d4b88acb30cd1eafff
+      internalID: -1937487931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_31
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f9bac529c2cc428d44da633dfaed8
+      internalID: 528849553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 513
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22c750970b09447af78c75eb2df8dc
+      internalID: 621328150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 523
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defdcda65c6c363439a810e2d0e425a5
+      internalID: 42930062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_34
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 523
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4104a1456a954bbf74345a8c6a410
+      internalID: -1347623459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 466
+        width: 11
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f40f4ba6a1b8479044f42622e16b3
+      internalID: 1937919328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 509
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c0e7f578f7d248b6dd443f4cb50de
+      internalID: -770885874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285479410c106a1458bfc2b966a41310
+      internalID: 40213197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 512
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4dc1b6f81fce42b795370c3bb5b9f
+      internalID: -881221431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 117
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e3a68c78196bd4d8e23e104482a710
+      internalID: -1322606067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 461
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da27018d215fe4ab5d6a38fee32ccd
+      internalID: 1072545694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 477
+        width: 138
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b178cb6662cb9974bb72fe7e1901f157
+      internalID: -1634279785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_42
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 460
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f1a5de22fd8a4a90aef4db9a9df03
+      internalID: 967577255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 464
+        width: 4
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdb9c1899a508b41a6e216baaeb0e65
+      internalID: -442066662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 494
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b62816a8ddef4da953ada1c5dae59
+      internalID: 200330108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_45
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 492
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17970bbb475fbce44a071f4929eb4a4f
+      internalID: 1086048335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_46
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 487
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaa1bf43a6abba4c865d9d3be012b3b
+      internalID: -2100556410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_47
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 467
+        width: 106
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826443d01b2d20448ae0f22b76b5cffc
+      internalID: 1262109198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 479
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4389e3f458bb8ae459ece6858f078e65
+      internalID: -1632362080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_49
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 463
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600c28ec8d6a08c4393660c0406d05a5
+      internalID: 291211821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 463
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe54f38acba692419a74604a0d4871d
+      internalID: 1119939927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_51
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 472
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b638b099ffea92648969e2945d8ba507
+      internalID: 364944253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_52
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c69000140d7582498299c0b1d2d90cd
+      internalID: 410069753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 472
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17da5d315cd65418d1c2f536ea97bb
+      internalID: 1566689322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_54
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 466
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3877294341534ea6ee3ed0f0477d5
+      internalID: -378917799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 321
+        width: 519
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a08a26174653c34a974e39dd9e0c667
+      internalID: 1860417133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_56
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 460
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bce2d59eaf394e8f6b68142b25c20
+      internalID: -699293907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_57
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 443
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94d408ec4627c4889f09931ff20e7e
+      internalID: -401010650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 414
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72a6902b72cdf49b54036de8de9b26
+      internalID: -476918822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 308
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290fb22dc94a58749a3d4835a2d1bb61
+      internalID: 885360705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_60
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 315
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8ecf61bec6f84aac7515a27bb3b00
+      internalID: -1596221833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 417
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1279a44bd35a46f41afb89dc01a98cc1
+      internalID: -783160019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 403
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f47ea52adbc0409a6620947380a85
+      internalID: -1689441192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_63
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 391
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354cdc961de456d4090870332fb4960c
+      internalID: -1213219500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854b6fe807eb2e4fb204e891dc83dae
+      internalID: 1235210924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 355
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a31a3e59b0984ea528308e78ee615
+      internalID: 1852071413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 337
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb046cfdc64c04b9ea8198823f68db
+      internalID: -1705823158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 317
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5bdd2a565301047becfed04452f6ea
+      internalID: -1931796769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_68
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 329
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea3db3b97c39f4c89e43c3174912a2
+      internalID: -902510813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 276
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1827e0a99371574c8744900bbaa0d84
+      internalID: -1338147699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 250
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ac87234b498b043b3556d05500f803
+      internalID: -1001600358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 283
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a263f7ac1cdf4cae64d08ead167b8
+      internalID: 1165134918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 308
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f36f50af628e488d2fd5008500d77
+      internalID: -166849593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3170ac79a5f1fa54683e8a05cc537511
+      internalID: 1766601807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_74
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff08e86fc7703414e9d4e46d656c5917
+      internalID: 968489711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 287
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cfcef2259851640adc1abdc3345195
+      internalID: -357144222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_76
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 262
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9978860ce6ca40a529ed8004c7708
+      internalID: 1689413138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 261
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cd0e75a90e3f45bc039caaba5a7ae
+      internalID: 706514146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 275
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fba4fe8a98054d8b4e66fbbcb35b7
+      internalID: 1916795751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_79
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae2cc0e0bbfddb42acd136e5a273641
+      internalID: 1105245876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_80
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 286
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44bb08ecd680664cb178cd005ddce4b
+      internalID: 846885151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_81
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8510d84cbb15864a834611e5a7d77b6
+      internalID: 434400768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_82
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 279
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5430c65e8bdf488edd7d6ad52ff90
+      internalID: -1447756096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_83
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 267
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9e1cf967d5494e85acc745e9d3133
+      internalID: -868570516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 266
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c9adba03b00a408fd6058ad606b6e
+      internalID: 1290935608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_85
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 299
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eda6b0d4e44b04c95246a6de3ed647
+      internalID: -2004460080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_86
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 266
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675e8e613657b040a8a1cf116b1c950
+      internalID: -331732573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_87
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 278
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a20fbff4ec93c46bdd1970993ac89f
+      internalID: 1015793961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_88
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 272
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be5a99b7c60d2c4283c8875e54ce05f
+      internalID: 803479071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_89
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af84ebbf0046d45960fa93a51869d1
+      internalID: -830781408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_90
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 312
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb1a0c1b2f3f440a07a568a7297a2d
+      internalID: 2106769890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_91
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 264
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b905417d0f0bd584eb8a21b3945b499d
+      internalID: -2113932048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_92
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 310
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f29e561d18af34fa1ecd1f537d9300
+      internalID: 481654926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_93
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b745c6932b3e409d2c3e7847971c6
+      internalID: 2011770688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_94
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 279
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2114519c1d0a140b330c67184c23d4
+      internalID: -1464095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_95
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 305
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101e9961e6836146bc9a97bc1e671dd
+      internalID: -936554441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_96
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 278
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee72d5cf21bff48a53aef69ada9cbd
+      internalID: 364065273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_97
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c40d75b34933914ab70de23b29097e2
+      internalID: 2076661782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_98
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 278
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b82177a0056af43b5df0067ca93396
+      internalID: 1304921489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_99
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 260
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40e9039721035429ad176a999f4ae6
+      internalID: 1921737024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_100
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 258
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6cf599ce75ac84f9ab84f94ae68dce
+      internalID: 1456538285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_101
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 229
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d57891a4778342a844e74b9b79d1b
+      internalID: 1093880105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_102
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 252
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573ae37e1b279b4db76cb8420e6c1ff
+      internalID: -1288048176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_103
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 256
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad9631e67a7ad4eb1cef1bc5bee9a7
+      internalID: 212632713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_104
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 250
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223b71d722978149bad5de360218d6e
+      internalID: -2099537516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_105
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 236
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70d8790a3daaa34281be0bd75cc2a49
+      internalID: 398722049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_106
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 245
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6ad67f26dc61448f3bddcadfcbd9f
+      internalID: 1232155794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_107
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 237
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2bc449afd682b46b379d40727a96f8
+      internalID: -1023400477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_108
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 214
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b99435b2a12b440b2bd03e5ba9a298
+      internalID: -1149763597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_109
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 245
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25541e8a2e2ce0b49891603e9ab75e9e
+      internalID: 1859720452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_110
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a37785a15ee5f4ea88ca991a040aff
+      internalID: 1769679786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_111
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 239
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba68c983012de4a970175ae69d07bf
+      internalID: -1941792809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_112
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 235
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d206b647fa02547a26658790afeda4
+      internalID: 1758360163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_113
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 235
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c3b1fdbe24744f8c9310cda7627fd
+      internalID: -1777263933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_114
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 225
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6263843706324443825198d8c0da5a5
+      internalID: -69148046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 227
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf223a0b5abd784c9589e25885a9295
+      internalID: -1343315129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_116
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 224
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5096a41ac2dd04b9ddc827435cf02f
+      internalID: -1848987622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_117
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1559755eb19647a8d37ad52edd683
+      internalID: 1417155374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_118
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 236
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e98932a56b914489c76520bad49d9
+      internalID: 1923990439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_119
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 228
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3c4195ec54ce429ce10a66ec56e09
+      internalID: -429652473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_120
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 222
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a0394895382a408e04033f20a71df
+      internalID: -1553888350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_121
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 215
+        width: 105
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e905bb8118e67b419c1a621d6111f94
+      internalID: 1399265530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_122
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 224
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a9301f20df254dace66352c97edf4
+      internalID: -1284625315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_123
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c69157a8633d42aca3d878bc8a2ef
+      internalID: -504457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 296
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a5247aa413754a96d4c5dad398321
+      internalID: 345338408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_125
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 97
+        width: 286
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22c47bdb1e2832448efbf20d0a0ffe0
+      internalID: -726996604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_126
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 56
+        width: 168
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d68536d7f46e3489da4274856e44cf
+      internalID: -1675486271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_127
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 52
+        width: 205
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1840d41b7a517248951218531a1d46b
+      internalID: -1889488290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 73
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6efe980ea47174389f25c0bc45ceca
+      internalID: -987935932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_129
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f922321b61813f14e93e46654e6adcf6
+      internalID: 505130039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f740692d7e79cd40b57209b6eefad7e
+      internalID: -1860561202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_131
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 7
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61473d9a55cce4d9dc6b40cd22eb61
+      internalID: 1860174541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_132
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 87
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499abc7faa6e3d408e1ceba247b0677
+      internalID: 1571395383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_133
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 74
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0806ded8dca5244449048f42341eb5b4
+      internalID: -2003907046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_134
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 59
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9de743e2347ee4ea69d51f945ce4b7
+      internalID: 344373446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_135
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e511b3394b87b488d7c4c9c4b62075
+      internalID: -919447037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_136
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 60
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a6c820b89afaf439b13b05eb5c2166
+      internalID: 285228150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc102d93a09914a4189883d0d15c07bc
+      internalID: -1032056621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_138
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 18
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321605321c261d459e43ea7c92bd4a9
+      internalID: 1270730956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_139
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 39
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d8dff8b5ccbf46b3c0b4b3a0f5486
+      internalID: -1668513096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_140
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df41dc12cbeea41afae9d41b809802
+      internalID: -60587381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_141
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 19
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b1e88156a34f479e7b6b0de69aea5
+      internalID: -1954728765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_142
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 37
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d5c32cc02bd54b925b9b34bf12dff
+      internalID: -35819405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 47
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77d20323063f7488674e525daad2f7
+      internalID: -61718453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_144
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94331166c6eb74c4a8ee92ec96a1965d
+      internalID: -728936022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_145
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f395deb5183c4daa22e9c7471d668
+      internalID: -754021096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_146
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4bdaf197afd9f43904f945f3fc2be3
+      internalID: -1267063546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_147
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fed39053b9de940acba224b716c95f
+      internalID: 199585363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_148
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 13
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03955152fccf00943977c0082c45f037
+      internalID: 1532196066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_149
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 46
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7838111d9b6b2874e9eb169e763defa5
+      internalID: -138702605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_150
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf732b41281e8046bbf2e20b6be16dd
+      internalID: -666492168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_151
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc57e99635562d49a0939c493dee708
+      internalID: 743598398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_152
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9581698d4df6140917b43069803641
+      internalID: -427545084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_153
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de1adfb067b4044b94019a62c543aa
+      internalID: -614864704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_154
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 38
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7744422ebc60439149ed8ed4b08da
+      internalID: -1334966872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_155
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 38
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b000063b281684bb036cc81a053261
+      internalID: -723501611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_156
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 40
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa722d18735bafc4a9fb15dd948b1cb1
+      internalID: -559925050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_157
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 42
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca68e38c756e1c74497cd55f9d42462d
+      internalID: 1831236326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31640c77ab578c4c87269e6f7035483
+      internalID: -1149809257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_159
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb33c510aa0e5c42a868aa20c77adb8
+      internalID: -1032916245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_160
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 13
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ecea62a990fb4f8e1f3df7eb4c297
+      internalID: 1750165308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_161
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 13
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dca9aa11bb2d94caf5c7ad2edc023c
+      internalID: -1614440407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hobstacles_162
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 6
+        width: 140
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af58efc5fcbebc4b97e3b8bbb7889a5
+      internalID: 581502287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ea3ce87037cb6a4481d179c27d491ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hobstacles_0: 1918559001
+      hobstacles_1: 1865469398
+      hobstacles_10: 260387159
+      hobstacles_100: 1456538285
+      hobstacles_101: 1093880105
+      hobstacles_102: -1288048176
+      hobstacles_103: 212632713
+      hobstacles_104: -2099537516
+      hobstacles_105: 398722049
+      hobstacles_106: 1232155794
+      hobstacles_107: -1023400477
+      hobstacles_108: -1149763597
+      hobstacles_109: 1859720452
+      hobstacles_11: -155757272
+      hobstacles_110: 1769679786
+      hobstacles_111: -1941792809
+      hobstacles_112: 1758360163
+      hobstacles_113: -1777263933
+      hobstacles_114: -69148046
+      hobstacles_115: -1343315129
+      hobstacles_116: -1848987622
+      hobstacles_117: 1417155374
+      hobstacles_118: 1923990439
+      hobstacles_119: -429652473
+      hobstacles_12: -815400804
+      hobstacles_120: -1553888350
+      hobstacles_121: 1399265530
+      hobstacles_122: -1284625315
+      hobstacles_123: -504457
+      hobstacles_124: 345338408
+      hobstacles_125: -726996604
+      hobstacles_126: -1675486271
+      hobstacles_127: -1889488290
+      hobstacles_128: -987935932
+      hobstacles_129: 505130039
+      hobstacles_13: -630071846
+      hobstacles_130: -1860561202
+      hobstacles_131: 1860174541
+      hobstacles_132: 1571395383
+      hobstacles_133: -2003907046
+      hobstacles_134: 344373446
+      hobstacles_135: -919447037
+      hobstacles_136: 285228150
+      hobstacles_137: -1032056621
+      hobstacles_138: 1270730956
+      hobstacles_139: -1668513096
+      hobstacles_14: 994994534
+      hobstacles_140: -60587381
+      hobstacles_141: -1954728765
+      hobstacles_142: -35819405
+      hobstacles_143: -61718453
+      hobstacles_144: -728936022
+      hobstacles_145: -754021096
+      hobstacles_146: -1267063546
+      hobstacles_147: 199585363
+      hobstacles_148: 1532196066
+      hobstacles_149: -138702605
+      hobstacles_15: -805231274
+      hobstacles_150: -666492168
+      hobstacles_151: 743598398
+      hobstacles_152: -427545084
+      hobstacles_153: -614864704
+      hobstacles_154: -1334966872
+      hobstacles_155: -723501611
+      hobstacles_156: -559925050
+      hobstacles_157: 1831236326
+      hobstacles_158: -1149809257
+      hobstacles_159: -1032916245
+      hobstacles_16: 2110870958
+      hobstacles_160: 1750165308
+      hobstacles_161: -1614440407
+      hobstacles_162: 581502287
+      hobstacles_17: -833124687
+      hobstacles_18: -1747222188
+      hobstacles_19: 279440393
+      hobstacles_2: -1247035783
+      hobstacles_20: 13885939
+      hobstacles_21: -879010265
+      hobstacles_22: -986226868
+      hobstacles_23: -505053667
+      hobstacles_24: -456047141
+      hobstacles_25: -1974864149
+      hobstacles_26: 722657624
+      hobstacles_27: 1128191244
+      hobstacles_28: -1932325266
+      hobstacles_29: 1380968049
+      hobstacles_3: 112037052
+      hobstacles_30: -1937487931
+      hobstacles_31: 528849553
+      hobstacles_32: 621328150
+      hobstacles_33: 42930062
+      hobstacles_34: -1347623459
+      hobstacles_35: 1937919328
+      hobstacles_36: -770885874
+      hobstacles_37: 40213197
+      hobstacles_38: -881221431
+      hobstacles_39: -1322606067
+      hobstacles_4: 388327890
+      hobstacles_40: 1072545694
+      hobstacles_41: -1634279785
+      hobstacles_42: 967577255
+      hobstacles_43: -442066662
+      hobstacles_44: 200330108
+      hobstacles_45: 1086048335
+      hobstacles_46: -2100556410
+      hobstacles_47: 1262109198
+      hobstacles_48: -1632362080
+      hobstacles_49: 291211821
+      hobstacles_5: -236948141
+      hobstacles_50: 1119939927
+      hobstacles_51: 364944253
+      hobstacles_52: 410069753
+      hobstacles_53: 1566689322
+      hobstacles_54: -378917799
+      hobstacles_55: 1860417133
+      hobstacles_56: -699293907
+      hobstacles_57: -401010650
+      hobstacles_58: -476918822
+      hobstacles_59: 885360705
+      hobstacles_6: -387184597
+      hobstacles_60: -1596221833
+      hobstacles_61: -783160019
+      hobstacles_62: -1689441192
+      hobstacles_63: -1213219500
+      hobstacles_64: 1235210924
+      hobstacles_65: 1852071413
+      hobstacles_66: -1705823158
+      hobstacles_67: -1931796769
+      hobstacles_68: -902510813
+      hobstacles_69: -1338147699
+      hobstacles_7: -511702418
+      hobstacles_70: -1001600358
+      hobstacles_71: 1165134918
+      hobstacles_72: -166849593
+      hobstacles_73: 1766601807
+      hobstacles_74: 968489711
+      hobstacles_75: -357144222
+      hobstacles_76: 1689413138
+      hobstacles_77: 706514146
+      hobstacles_78: 1916795751
+      hobstacles_79: 1105245876
+      hobstacles_8: 471793079
+      hobstacles_80: 846885151
+      hobstacles_81: 434400768
+      hobstacles_82: -1447756096
+      hobstacles_83: -868570516
+      hobstacles_84: 1290935608
+      hobstacles_85: -2004460080
+      hobstacles_86: -331732573
+      hobstacles_87: 1015793961
+      hobstacles_88: 803479071
+      hobstacles_89: -830781408
+      hobstacles_9: -1762254403
+      hobstacles_90: 2106769890
+      hobstacles_91: -2113932048
+      hobstacles_92: 481654926
+      hobstacles_93: 2011770688
+      hobstacles_94: -1464095
+      hobstacles_95: -936554441
+      hobstacles_96: 364065273
+      hobstacles_97: 2076661782
+      hobstacles_98: 1304921489
+      hobstacles_99: 1921737024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
