@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Mouvement")]
     [SerializeField] private float vitesseDeplacement = 5f;
+    [SerializeField] private float sprintSpeed = 8f;  // Vitesse de sprint
     [SerializeField] private float forceJump = 12f;
 
     [Header("Ground Check")]
@@ -25,11 +26,12 @@ public class PlayerMovement : MonoBehaviour
     private float lastWallJumpTime;
 
     private Rigidbody2D rb;
-    private float mouvementHorizontal;
+    private float horizontalMovement;
     private bool isGrounded;
     private bool isWallSliding;
     private bool isTouchingWall;
     private int wallDirection;
+    private bool isSprinting;
 
     private void Awake()
     {
@@ -38,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        mouvementHorizontal = context.ReadValue<Vector2>().x;
+        horizontalMovement = context.ReadValue<Vector2>().x;
     }
 
     public void OnJump(InputAction.CallbackContext context)
@@ -47,23 +49,13 @@ public class PlayerMovement : MonoBehaviour
         {
             if (isTouchingWall && !isGrounded && Time.time > lastWallJumpTime + wallJumpCooldown)
             {
-                // Force le saut dans la direction opposée au mur avec une force plus importante
-                float jumpDirectionX = -wallDirection; // -1 pour droite, 1 pour gauche
+                float jumpDirectionX = -wallDirection;
                 Vector2 wallJumpForce = new Vector2(jumpDirectionX * wallJumpForceX, wallJumpForceY);
-                
-                // Reset complet de la vélocité
                 rb.linearVelocity = Vector2.zero;
-                
-                // Applique la force de saut
                 rb.AddForce(wallJumpForce, ForceMode2D.Impulse);
-                
-                // Désactive temporairement le contrôle du joueur pour forcer la direction
-                mouvementHorizontal = jumpDirectionX; // Force le mouvement dans la direction du saut
-                
+                horizontalMovement = jumpDirectionX;
                 lastWallJumpTime = Time.time;
                 isWallSliding = false;
-                
-                Debug.Log($"Wall Jump! Direction: {jumpDirectionX}, Force: {wallJumpForce}");
             }
             else if (isGrounded && !isTouchingWall)
             {
@@ -72,24 +64,20 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void OnSprint(InputAction.CallbackContext context)
+    {
+        isSprinting = context.ReadValueAsButton();
+    }
+
     private void FixedUpdate()
     {
-        // Ground Check
         isGrounded = Physics2D.OverlapBox(groundCheck.position, groundCheckSize, 0f, groundLayer);
 
-        // Wall Checks
         bool touchingRightWall = Physics2D.OverlapBox(wallCheckRight.position, wallCheckSize, 0f, groundLayer);
         bool touchingLeftWall = Physics2D.OverlapBox(wallCheckLeft.position, wallCheckSize, 0f, groundLayer);
         isTouchingWall = touchingRightWall || touchingLeftWall;
         wallDirection = touchingRightWall ? 1 : (touchingLeftWall ? -1 : 0);
 
-        // Debug
-        if (isTouchingWall)
-        {
-            Debug.Log($"Mur: {(touchingRightWall ? "Droit" : "Gauche")}, Vitesse Y: {rb.linearVelocity.y}, Au sol: {isGrounded}");
-        }
-
-        // Wall Slide avec vérification plus stricte
         if (isTouchingWall && !isGrounded && rb.linearVelocity.y < 0 && Time.time > lastWallJumpTime + wallJumpCooldown)
         {
             isWallSliding = true;
@@ -105,8 +93,8 @@ public class PlayerMovement : MonoBehaviour
             isWallSliding = false;
         }
 
-        // Movement
-        rb.linearVelocity = new Vector2(mouvementHorizontal * vitesseDeplacement, rb.linearVelocity.y);
+        float currentSpeed = isSprinting ? sprintSpeed : vitesseDeplacement;
+        rb.linearVelocity = new Vector2(horizontalMovement * currentSpeed, rb.linearVelocity.y);
     }
 
     private void OnDrawGizmos()
