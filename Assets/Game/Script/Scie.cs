@@ -8,7 +8,7 @@ public class SawMovement : MonoBehaviour
     public float rightLimit = 7f;
     private bool isWaiting = false;
 
-    void Update()
+    void FixedUpdate()
     {
         if (!isWaiting)
         {

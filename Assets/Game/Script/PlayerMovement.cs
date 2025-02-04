@@ -81,7 +81,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isDead) return; // Ne pas exécuter la logique de mouvement si mort
+        if (isDead) return;
 
         isGrounded = Physics2D.OverlapBox(groundCheck.position, groundCheckSize, 0f, groundLayer);
 
