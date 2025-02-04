@@ -19,7 +19,7 @@ public class CollisionMort : MonoBehaviour
         }
     }
 
-    void Update()
+    void FixedUpdate()
     {
         transform.Rotate(0, 0, rotationSpeed * Time.deltaTime);
     }
@@ -39,10 +39,10 @@ public class CollisionMort : MonoBehaviour
     {
         if (collisionObject.CompareTag("Player"))
         {
-            // Respawn le joueur
+           
             collisionObject.transform.position = respawnPoint;
             
-            // Si vous avez un Rigidbody2D, réinitialisez sa vélocité
+            
             Rigidbody2D rb = collisionObject.GetComponent<Rigidbody2D>();
             if (rb != null)
             {

@@ -4,44 +4,51 @@ using System.Collections;
 public class PlatformDisappear : MonoBehaviour
 {
     [SerializeField] private float disappearDelay = 1f;
-    [SerializeField] private float respawnDelay = 1.5f;
-    private BoxCollider2D boxCollider;
+    private Collider2D platformCollider;
     private SpriteRenderer spriteRenderer;
     private bool isDisappearing = false;
 
     void Start()
     {
-        boxCollider = GetComponent<BoxCollider2D>();
+        platformCollider = GetComponent<Collider2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        if (platformCollider != null)
+        {
+            platformCollider.isTrigger = true;
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player") && !isDisappearing)
         {
-            StartCoroutine(DisappearAndRespawn());
+            StartCoroutine(Disappear());
         }
     }
 
-    IEnumerator DisappearAndRespawn()
+    IEnumerator Disappear()
     {
         isDisappearing = true;
         
         // Désactive le trigger et attend
-        boxCollider.isTrigger = false;
+        if (platformCollider != null)
+        {
+            platformCollider.isTrigger = false;
+        }
         yield return new WaitForSeconds(disappearDelay);
         
-        // Fait disparaître la plateforme
-        spriteRenderer.enabled = false;
-        boxCollider.enabled = false;
+        // Fait disparaître la plateforme définitivement
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.enabled = false;
+        }
+        if (platformCollider != null)
+        {
+            platformCollider.enabled = false;
+        }
         
-        // Attend puis fait réapparaître
-        yield return new WaitForSeconds(respawnDelay);
-        
-        // Réactive tout
-        spriteRenderer.enabled = true;
-        boxCollider.enabled = true;
-        boxCollider.isTrigger = true;
-        isDisappearing = false;
+        // Optionnel : détruit complètement l'objet
+        Destroy(gameObject);
     }
 }
