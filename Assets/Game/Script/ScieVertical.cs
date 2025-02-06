@@ -1,10 +1,10 @@
 using UnityEngine;
 using System.Collections;
 
-public class SawMovement : MonoBehaviour
+public class SawVerticalMovement : MonoBehaviour
 {
     public float speed = 10f;
-    public float leftLimit = -10f;
+    public float bottomLimit = -10f;
     [SerializeField] private float respawnTime = 2f;
     
     private bool isWaiting = false;
@@ -23,9 +23,11 @@ public class SawMovement : MonoBehaviour
     {
         if (!isWaiting)
         {
-            transform.position += Vector3.left * speed * Time.deltaTime;
+            // Change Vector3.left en Vector3.down pour descendre
+            transform.position += Vector3.down * speed * Time.deltaTime;
 
-            if (transform.position.x < leftLimit)
+            // Vérifie la position Y au lieu de X
+            if (transform.position.y < bottomLimit)
             {
                 StartCoroutine(RespawnSaw());
             }
@@ -36,13 +38,11 @@ public class SawMovement : MonoBehaviour
     {
         isWaiting = true;
         
-        // Désactive les composants
         spriteRenderer.enabled = false;
         sawCollider.enabled = false;
         
         yield return new WaitForSeconds(respawnTime);
         
-        // Replace la scie et réactive les composants
         transform.position = initialPosition;
         spriteRenderer.enabled = true;
         sawCollider.enabled = true;
